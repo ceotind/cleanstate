@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-15.5-black)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-16.1-black)](https://nextjs.org/)
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Local-green)](https://github.com)
 
 **Remove metadata from files and tracking parameters from URLs. No data leaves your device.**
@@ -124,7 +124,7 @@ CleanSlate addresses these privacy concerns by:
 
 ### Prerequisites
 
-- Node.js 18+ 
+- Node.js 20+
 - npm, yarn, or pnpm
 
 ### Clone & Install
@@ -206,7 +206,7 @@ https://example.com/article
 
 ## 🛠️ Technology Stack
 
-- **Framework**: [Next.js 15](https://nextjs.org/) – React framework with App Router
+- **Framework**: [Next.js 16](https://nextjs.org/) – React framework with App Router
 - **Language**: [TypeScript](https://www.typescriptlang.org/) – Type-safe development
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
 - **UI Components**: [Radix UI](https://www.radix-ui.com/) – Accessible component primitives
